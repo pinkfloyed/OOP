@@ -8,3 +8,7 @@ Key Concepts of OOP :
 4. Inheritance
 5. Polymorphism
 6. Abstraction
+
+https://pastebin.ubuntu.com/p/GcqbXn9Vm5/
+https://pastebin.ubuntu.com/p/G5d5ddFDqX/
+https://pastebin.ubuntu.com/p/PgGbXnBwK7/
