@@ -13,3 +13,7 @@ https://pastebin.ubuntu.com/p/GcqbXn9Vm5/
 https://pastebin.ubuntu.com/p/G5d5ddFDqX/
 
 https://pastebin.ubuntu.com/p/PgGbXnBwK7/
+
+
+### All topics on OOP can be found in this link :
+https://pastebin.ubuntu.com/p/VZB5d22DYb/
